@@ -2,7 +2,9 @@
 安卓网络视频播放器
 
 本项目借鉴了GitHub中：https://github.com/Jzvd/JZVideo
+
 本项目详细的制作过程，可以查看我的博客：http://t.csdn.cn/1XIjr
+
 (**如果你使用git下载总是报红**，你可以选择下载dev-sidecar编程软件加速下载--https://gitee.com/interesting-goods/dev-sidecar?_from=gitee_search)
 
 
