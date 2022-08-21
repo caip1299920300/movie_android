@@ -22,7 +22,7 @@
 
 ## 3.项目的功能展示
 
-相应的安卓apk（网络视频播放器.apk---链接：https://pan.baidu.com/s/1QVmd0Aa75913PcpAIwnQfg 提取码：x3u7），大家可以下载使用以下
+相应的安卓apk（网络视频播放器.apk---链接：https://pan.baidu.com/s/1QVmd0Aa75913PcpAIwnQfg 提取码：x3u7），大家可以下载使用一下。
 
 ![image-20220821155239706](./image/shows.png)
 
